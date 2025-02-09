@@ -1,4 +1,7 @@
-# .
+# #autor
+Nombre: Juan Pablo Cota Robles  
+- Email: jhu4n.004@gmail.com  
+- GitHub: @knigth915 https://github.com/knigth915
 
 This template should help get you started developing with Vue 3 in Vite.
 
